@@ -10,7 +10,7 @@ I enjoy figuring out how things work, building them end to end, and getting them
 
 <br />
 
-<a href="[https://manuelbecker.com](https://portfolio-manuel-becker.cmd-labs.com/access/DodHRN8VPIjfycyP4cHAuQ)"><img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-1663A6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore my portfolio" /></a>
+<a href="https://portfolio-manuel-becker.cmd-labs.com/access/DodHRN8VPIjfycyP4cHAuQ"><img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-1663A6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore my portfolio" /></a>
 <a href="https://github.com/manuelbecker123?tab=repositories"><img src="https://img.shields.io/badge/ALL_REPOSITORIES-EAF4FD?style=for-the-badge&logo=github&logoColor=155A95" alt="All repositories" /></a>
 
 </div>
