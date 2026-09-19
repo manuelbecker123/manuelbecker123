@@ -19,7 +19,7 @@ I enjoy figuring out how things work, building them end to end, and getting them
 
 ### A little about what I build
 
-I work across **engineering and simulation**, **full-stack software**, and **AI-powered automation**. My projects range from forecasting and computer vision to document processing and web applications. This page is a guide to the work I can share publicly; some professional and ongoing projects aren't open source.
+I work across **engineering and simulation**, **full-stack software**, and **AI-powered automation**. My projects range from local AI music generation and document processing to forecasting, computer vision and web applications. This page is a guide to the work I can share publicly; some professional and ongoing projects aren't open source.
 
 ---
 
@@ -29,18 +29,18 @@ I work across **engineering and simulation**, **full-stack software**, and **AI-
 <tr>
 <td width="50%" valign="top">
 
-### [↗ ASL Interpreter](https://github.com/manuelbecker123/ML_Projects/tree/main/asl-interpreter)
+### [↗ AI Music Studio](https://github.com/manuelbecker123/ai-music-studio)
 
-Computer vision for American Sign Language hand signs, comparing a custom CNN with transfer learning and exploring predictions through a Streamlit demo.
+A local music and sound-effects generator with a React interface, FastAPI backend and ComfyUI-powered Stable Audio 3 workflow. Includes optional LLM prompt enhancement.
 
-`Python` `Computer Vision` `Streamlit`
+`React` `FastAPI` `ComfyUI` `Generative Audio`
 
 </td>
 <td width="50%" valign="top">
 
 ### [↗ PDF LLM Processor](https://github.com/manuelbecker123/PDF_LLM_processor)
 
-A page-by-page PDF processing pipeline for tasks such as translation, summarisation and structured extraction, with document output.
+A page-by-page PDF processing pipeline for LLM-powered translation, summarisation and structured extraction, with document output.
 
 `Python` `LLMs` `Document Processing`
 
@@ -49,20 +49,20 @@ A page-by-page PDF processing pipeline for tasks such as translation, summarisat
 <tr>
 <td width="50%" valign="top">
 
+### [↗ ASL Interpreter](https://github.com/manuelbecker123/ML_Projects/tree/main/asl-interpreter)
+
+Computer-vision and machine-learning project for American Sign Language hand signs, comparing a custom CNN with transfer learning through a Streamlit demo.
+
+`Python` `Machine Learning` `Streamlit`
+
+</td>
+<td width="50%" valign="top">
+
 ### [↗ Energy Demand Forecasting](https://github.com/manuelbecker123/ML_Projects/tree/main/energy-consumption-forecast)
 
 A time-series modelling project comparing statistical and deep-learning approaches to hourly electricity demand forecasting.
 
 `Python` `Time Series` `Modelling`
-
-</td>
-<td width="50%" valign="top">
-
-### [↗ Angular Meeting Manager](https://github.com/manuelbecker123/Angular-UI-project)
-
-A full-stack client meeting management application with scheduling, accounts and an administrative interface.
-
-`Angular` `Express` `MySQL`
 
 </td>
 </tr>
@@ -73,36 +73,35 @@ A full-stack client meeting management application with scheduling, accounts and
 ## 02 / Explore by area
 
 <details open>
-<summary><strong>⌁ &nbsp; AI &amp; automation</strong> &nbsp;—&nbsp; Document workflows and applied machine learning</summary>
+<summary><strong>⌁ &nbsp; AI &amp; automation</strong> &nbsp;—&nbsp; Generative audio and LLM-powered workflows</summary>
 <br />
 
 | Repository | Focus |
 |:--|:--|
-| [PDF LLM Processor ↗](https://github.com/manuelbecker123/PDF_LLM_processor) | Configurable LLM tasks on extracted PDF pages |
+| [AI Music Studio ↗](https://github.com/manuelbecker123/ai-music-studio) | Local music and sound-effect generation using Stable Audio 3, ComfyUI and optional LLM prompt enhancement |
+| [PDF LLM Processor ↗](https://github.com/manuelbecker123/PDF_LLM_processor) | LLM-powered PDF translation and other configurable document-processing tasks |
+
+</details>
+
+<details>
+<summary><strong>⌁ &nbsp; Machine learning &amp; modelling</strong> &nbsp;—&nbsp; Computer vision, forecasting and predictive models</summary>
+<br />
+
+| Project | Focus |
+|:--|:--|
 | [ASL Interpreter ↗](https://github.com/manuelbecker123/ML_Projects/tree/main/asl-interpreter) | Sign-language image classification and interactive demo |
+| [Energy Consumption Forecast ↗](https://github.com/manuelbecker123/ML_Projects/tree/main/energy-consumption-forecast) | Hourly electricity demand forecasting |
 | [Medical Cost Predictor ↗](https://github.com/manuelbecker123/ML_Projects/tree/main/medical-cost-predictor) | Applied predictive modelling |
 
-</details>
-
-<details>
-<summary><strong>⌁ &nbsp; Engineering &amp; modelling</strong> &nbsp;—&nbsp; Data, forecasting and quantitative problems</summary>
-<br />
-
-| Repository | Focus |
-|:--|:--|
-| [Energy Consumption Forecast ↗](https://github.com/manuelbecker123/ML_Projects/tree/main/energy-consumption-forecast) | Hourly electricity demand forecasting |
-| [ML Projects ↗](https://github.com/manuelbecker123/ML_Projects) | Collection of modelling and computer-vision projects |
+[Browse the full ML Projects repository ↗](https://github.com/manuelbecker123/ML_Projects)
 
 </details>
 
 <details>
-<summary><strong>⌁ &nbsp; Software &amp; applications</strong> &nbsp;—&nbsp; Building interfaces and complete systems</summary>
+<summary><strong>⌁ &nbsp; Full-stack coursework</strong> &nbsp;—&nbsp; Caltech software development projects</summary>
 <br />
 
-| Repository | Focus |
-|:--|:--|
-| [Angular UI Project ↗](https://github.com/manuelbecker123/Angular-UI-project) | Client meeting management with Angular, Express and MySQL |
-| [Java Booking System ↗](https://github.com/manuelbecker123/java-booking-system) | Zumba session registration and administration |
+[Angular Meeting Manager ↗](https://github.com/manuelbecker123/Angular-UI-project) · [Java Booking System ↗](https://github.com/manuelbecker123/java-booking-system)
 
 </details>
 
