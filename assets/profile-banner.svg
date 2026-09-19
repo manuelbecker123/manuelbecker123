@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Manuel Becker — engineering, software and intelligent systems</title>
+  <desc id="desc">Minimal blue line-art banner with an abstract orbital diagram, waves and connected nodes.</desc>
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffffff"/><stop offset="1" stop-color="#eaf5ff"/></linearGradient>
+    <linearGradient id="ink" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#12356c"/><stop offset="1" stop-color="#2586c8"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#a9cdec" stroke-width="0.65" opacity=".45"/></pattern>
+    <clipPath id="clip"><rect width="1200" height="300" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="300" fill="url(#paper)"/>
+    <rect width="1200" height="300" fill="url(#grid)" opacity=".5"/>
+    <path d="M0 246 C220 193 318 305 545 239 S942 195 1200 241" fill="none" stroke="#92c9ee" stroke-width="1.5" opacity=".58"/>
+    <path d="M0 261 C229 207 327 323 551 258 S939 211 1200 259" fill="none" stroke="#b7dbf5" stroke-width="1.5" opacity=".75"/>
+    <g fill="none" stroke="#277cba" stroke-linecap="round" stroke-linejoin="round">
+      <circle cx="998" cy="150" r="107" stroke-width="1.7" opacity=".75"/>
+      <circle cx="998" cy="150" r="75" stroke-width="1.2" stroke-dasharray="4 8" opacity=".58"/>
+      <ellipse cx="998" cy="150" rx="155" ry="48" transform="rotate(-29 998 150)" stroke-width="2" opacity=".85"/>
+      <ellipse cx="998" cy="150" rx="155" ry="48" transform="rotate(51 998 150)" stroke-width="1.2" opacity=".36"/>
+      <path d="M932 178 996 140l64 38-64 37z M996 140v75 M932 178v-63l64-38 64 38v63 M932 115l64 39 64-39" stroke-width="1.6"/>
+      <path d="M898 82l-20-18h-35m213 144 36 19h51m-273-35-21 23h-30" stroke-width="1.7" opacity=".65"/>
+      <path d="m1130 65 9-9m-9 0 9 9M852 133h17m-8.5-8.5v17" stroke-width="2" opacity=".55"/>
+    </g>
+    <g fill="#2586c8" stroke="#eaf5ff" stroke-width="3">
+      <circle cx="881" cy="70" r="6"/><circle cx="1139" cy="227" r="6"/><circle cx="818" cy="215" r="5"/>
+      <circle cx="1067" cy="81" r="7"/><circle cx="927" cy="221" r="4"/>
+    </g>
+    <g font-family="Inter,Segoe UI,Arial,sans-serif">
+      <text x="66" y="88" font-size="15" letter-spacing="5" fill="#277cba" font-weight="700">ENGINEERING  /  SOFTWARE  /  AI</text>
+      <text x="61" y="160" font-size="65" font-weight="800" letter-spacing="-2" fill="url(#ink)">Manuel Becker</text>
+      <rect x="65" y="185" width="72" height="4" rx="2" fill="#278cca"/>
+      <text x="66" y="226" font-size="22" fill="#315b86" font-weight="400">Turning complex ideas into useful systems.</text>
+      <text x="66" y="270" font-size="11" letter-spacing="3" fill="#6c95b9">BUILD  ·  LEARN  ·  ITERATE</text>
+    </g>
+  </g>
+</svg>
