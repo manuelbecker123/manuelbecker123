@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-banner.svg" alt="Manuel Becker — Engineering, Software and AI" width="100%" />
+
 
 <br />
 
